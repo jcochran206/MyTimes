@@ -1,0 +1,15 @@
+/* universal selectors */
+
+body {
+
+}
+
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#logo {
+  color: MediumAquamarine;
+}
