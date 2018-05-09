@@ -38,3 +38,17 @@ header {
 header nav {
   padding-right: 40px;
 }
+
+/* main content */
+
+.column.large {
+  width: 630px;
+}
+
+.column.medium {
+  width: 300px;
+}
+
+.column.small {
+  width: 240px;
+}
